@@ -1,5 +1,7 @@
 # TCI_Cycle-free CycleGAN
 
+[IEEE TCI] Official Pytorch implementation of "Cycle-Free CycleGAN Using Invertible Generator for Unsupervised Low-Dose CT Denoising"
+
 ## Paper
 [Cycle-free CycleGAN using Invertible Generator for Unsupervised Low-Dose CT Denoising][paper link] (IEEE TCI, T. Kwon et al.)
 
